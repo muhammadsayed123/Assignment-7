@@ -1,12 +1,16 @@
-import './App.css'
+import "./App.css";
+import Footer from "./Component/Footer/Footer";
+import Main from "./Component/Main/Main";
+import Navbar from "./Component/Navbar/Navbar";
+
 
 function App() {
   return (
     <>
-      <button className="btn">Default</button>
-      <h1 className='font-bold'>Satup react</h1>
+      <Navbar></Navbar>
+      <Main></Main>
+      <Footer></Footer>
     </>
-  )
+  );
 }
-
-export default App
+export default App;
