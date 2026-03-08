@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Login issue",
+        "description": "User unable to log into the system using correct credentials.",
+        "customer": "Alice Johnson",
+        "priority": "High",
+        "status": "Open",
+        "createdAt": "2025-09-20"
+    },
+    {
+        "id": 2,
+        "title": "Payment failure",
+        "description": "Credit card payment is failing for multiple users.",
+        "customer": "David Smith",
+        "priority": "Critical",
+        "status": "In Progress",
+        "createdAt": "2025-09-19"
+    },
+    {
+        "id": 3,
+        "title": "Slow website",
+        "description": "The homepage takes more than 10 seconds to load.",
+        "customer": "Emma Brown",
+        "priority": "Medium",
+        "status": "Open",
+        "createdAt": "2025-09-18"
+    },
+    {
+        "id": 4,
+        "title": "Email not sent",
+        "description": "Order confirmation emails are not being delivered.",
+        "customer": "Michael Lee",
+        "priority": "High",
+        "status": "Resolved",
+        "createdAt": "2025-09-17"
+    },
+    {
+        "id": 5,
+        "title": "Mobile app crash",
+        "description": "iOS app crashes on checkout screen.",
+        "customer": "Sophia Wilson",
+        "priority": "Critical",
+        "status": "Open",
+        "createdAt": "2025-09-16"
+    },
+    {
+        "id": 6,
+        "title": "Incorrect invoice",
+        "description": "Customer received an invoice with wrong amount.",
+        "customer": "Chris Evans",
+        "priority": "High",
+        "status": "In Progress",
+        "createdAt": "2025-09-15"
+    },
+    {
+        "id": 7,
+        "title": "Search not working",
+        "description": "Search functionality returns no results even when items exist.",
+        "customer": "Olivia Martin",
+        "priority": "Medium",
+        "status": "Open",
+        "createdAt": "2025-09-14"
+    },
+    {
+        "id": 8,
+        "title": "Refund delay",
+        "description": "Refund requests are taking more than 7 business days.",
+        "customer": "Liam Anderson",
+        "priority": "Low",
+        "status": "Open",
+        "createdAt": "2025-09-13"
+    },
+    {
+        "id": 9,
+        "title": "UI bug in dashboard",
+        "description": "Charts overlap when resizing browser window.",
+        "customer": "Emma Davis",
+        "priority": "Low",
+        "status": "Resolved",
+        "createdAt": "2025-09-12"
+    },
+    {
+        "id": 10,
+        "title": "Password reset issue",
+        "description": "Password reset link is not valid after 5 minutes.",
+        "customer": "James Carter",
+        "priority": "Medium",
+        "status": "In Progress",
+        "createdAt": "2025-09-11"
+    },
+    {
+        "id": 11,
+        "title": "Order not delivered",
+        "description": "Customer did not receive the package even after marked delivered.",
+        "customer": "Sophia Clark",
+        "priority": "High",
+        "status": "Open",
+        "createdAt": "2025-09-10"
+    },
+    {
+        "id": 12,
+        "title": "Feature request",
+        "description": "Customer requested a dark mode option in the app.",
+        "customer": "William King",
+        "priority": "Low",
+        "status": "Open",
+        "createdAt": "2025-09-09"
+    }
+]

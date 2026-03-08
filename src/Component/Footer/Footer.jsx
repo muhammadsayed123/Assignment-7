@@ -7,7 +7,7 @@ import d from "../../assets/pic/Vector.png";
 const Footer = () => {
   return (
     <div className="bg-black">
-      <div className="max-w-[1350px] mx-auto py-10">
+      <div className="max-w-[1200px] mx-auto py-10">
         <div className="grid grid-cols-5 gap-10">
           <div className="text-white">
             <h1 className="font-bold text-xl mb-3">CS — Ticket System</h1>
@@ -56,7 +56,7 @@ const Footer = () => {
             </p>
           </div>
         </div>
-        <p className="text-white flex justify-center mt-20">© 2025 CS — Ticket System. All rights reserved.</p>
+        <p className="text-white flex justify-center mt-20 ">© 2025 CS — Ticket System. All rights reserved.</p>
       </div>
     </div>
   );
