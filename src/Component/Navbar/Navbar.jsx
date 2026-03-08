@@ -5,7 +5,7 @@ const Navbar = () => {
         <div>
             
 
-<div className="border-b-2">
+<div className="">
         <div className="max-w-[1200px] mx-auto">
           <div className="navbar ">
             <div className="navbar-start">
